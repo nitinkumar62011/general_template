@@ -1,2 +1,3 @@
 # general_template
-general template for any project
+general template for any kind of  project
+
